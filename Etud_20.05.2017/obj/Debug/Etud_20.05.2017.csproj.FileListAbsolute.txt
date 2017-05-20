@@ -1,0 +1,6 @@
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\bin\Debug\Etud_20.05.2017.exe.config
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\bin\Debug\Etud_20.05.2017.exe
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\bin\Debug\Etud_20.05.2017.pdb
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\obj\Debug\Etud_20.05.2017.csprojResolveAssemblyReference.cache
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\obj\Debug\Etud_20.05.2017.exe
+C:\Users\Lala.M\Desktop\Etud_20.05.2017\Etud_20.05.2017\obj\Debug\Etud_20.05.2017.pdb
